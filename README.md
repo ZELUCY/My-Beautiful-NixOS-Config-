@@ -10,5 +10,6 @@ Also you'll need to have this in mind:
 1. This config uses GNOME
 2. This config have Nvidia drivers
 3. This is NOT for Laptops (unless you want to edit the power saving stuff for it to work obviously)
+4. If you have a Legacy BIOS/MBR PC then bad news to you because this uses Systemd-boot
 
 Ty for reading, hope you like it
