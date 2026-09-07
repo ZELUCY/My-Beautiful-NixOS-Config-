@@ -133,9 +133,14 @@
   discord
   spotify
   fastfetch
-  kitty
+  hyfetch
+  handbrake
+  kdePackages.kdenlive
   vlc
-  #  wget
+  wget
+  git
+  tree
+  btop
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
